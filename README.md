@@ -7,7 +7,7 @@ Step1: Create index.html and copy/paste below code in index.html
 
 index.html
 
-
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -148,3 +148,4 @@ Your Age is: '.$diff->format('%y').' Years, '.$diff->format('%m').' months ,
 
 
 Happy coding!
+</svg>
