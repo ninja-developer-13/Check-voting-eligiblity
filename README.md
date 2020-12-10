@@ -1,4 +1,5 @@
-# How-to-check-whether-input-age-is-eligible-for-voting-or-not-using-PHP-ajax-
+How to check whether input age is eligible for voting or not using PHP ajax?
+
 In this tutorial you will learn how to check whether input age is eligible for voting or not using PHP ajax.
 Input age of the person and we have to write a function to validate whether person is eligible for voting or not in php and ajax? 
 
